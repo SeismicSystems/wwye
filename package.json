@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "chalk": "^5.4.1",
-        "seismic-viem": "file:/Users/lyronctk/Documents/projects/seismic/seismic-client/packages/seismic-viem",
+        "seismic-viem": "^1.0.34",
         "viem": "^2.22.3"
     },
     "devDependencies": {
