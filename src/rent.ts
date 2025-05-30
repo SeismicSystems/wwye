@@ -32,6 +32,7 @@ const MOCK_AMOUNT = 1000;
     MOCK_AMOUNT,
   ]);
 
+  console.log();
   displayPlaintextTx(plaintextTx, ABI_FUNC as AbiFunction);
   displayShieldedTx(shieldedTx);
 })();
