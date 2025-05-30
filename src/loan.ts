@@ -1,5 +1,5 @@
 /*
- * Pay off a loan on-chain, with both your lender and amount shielded.
+ * Take out a loan on-chain, with both your lender and amount shielded.
  */
 import { AbiFunction } from 'viem'
 
